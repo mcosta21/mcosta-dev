@@ -12,34 +12,10 @@ import {
 } from "@nextui-org/dropdown";
 import { IoLanguage } from "react-icons/io5";
 import { useTranslation } from "react-i18next";
-import { useLocation, useNavigate } from "react-router-dom";
 
 import { ThemeSwitch } from "@/components/theme-switch";
 
 export const Navbar = () => {
-  const location = useLocation();
-  const navigate = useNavigate();
-
-  function handleFocus(id: string) {
-    if (location.pathname !== "/") {
-      navigate("/");
-
-      setTimeout(() => {
-        onFocus(id);
-      }, 1000);
-    } else {
-      onFocus(id);
-    }
-  }
-
-  function onFocus(id: string) {
-    const section = document.getElementById(id);
-
-    if (section) {
-      section.scrollIntoView({ behavior: "smooth" });
-    }
-  }
-
   const { i18n } = useTranslation();
 
   const changeLanguage = (lng: string) => {
