@@ -1,0 +1,22 @@
+#main-section {
+    padding: 8rem 0;
+
+    .caller {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 1.4rem;
+        max-width: 600px;
+        margin: auto;
+
+        .call-text {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 2rem;
+        }
+
+    }
+    
+}

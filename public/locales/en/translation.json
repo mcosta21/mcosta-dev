@@ -1,0 +1,37 @@
+{
+    "PROFILE": {
+        "HI": "Hi, I'm ",
+        "ABOUT_ME_1": "Senior Software Engineer | Full Stack Developer with over 9 years of experience developing scalable and innovative software solutions for industries such as logistics, financial services, healthcare, travel, and business management in the food and beauty sectors.",
+        "ABOUT_ME_2": "My career has provided me with deep technical knowledge and the ability to solve complex problems. I have experience leading teams and projects focused on agile practices (SCRUM, Kanban) and delivering high-quality results, always aligned with industry best practices.",
+        "ABOUT_ME_3": "I have proven expertise in designing and implementing software architectures, focusing on .NET/C#, Angular 2+, React, and a variety of modern technologies such as Java, Redis, ElasticSearch, Azure, SQL Server, and Docker. Additionally, I have solid experience in technical leadership, code review, defining prerequisites, and ensuring software quality.",
+        "HIGH_VALUE_PROJECTS": "High Value Projects",
+        "GOOTRIP_DESCRIPTION": "Innovative platform to plan trips, explore influencer tips, discover destinations, and create personalized itineraries.",
+        "EZYAPP_DESCRIPTION": "A business management system focused on gastronomy, offering complete solutions for restaurants, snack bars, and pizzerias, optimizing operations and improving the customer experience.",
+        "BROTHERS_INVEST_DESCRIPTION": "A company focused on strategic investments, helping clients achieve their financial goals through personalized consulting and innovative solutions.",
+        "LETZ_LEARN_DESCRIPTION": "Learn about certifications with practical questions",
+        "NETFLIX_CLONE_DESCRIPTION": "Clone of the Netflix interface with React JS",
+        "HBO_MAX_CLONE_DESCRIPTION": "Clone of the HBO Max mobile app using React Native Expo",
+        "MULTIPLE_AUTHENTICATION_DESCRIPTION": "This project provides a multiple authentication process using React. So, you can use multiple methods to user autheticate inside your application, besides, the structure makes easy the development of others methods likes GitHub and Facebook",
+        "FIRE_ALARM_DESCRIPTION": "JSF application that performs serial communication with Arduino UNO to monitor the environment in order to prevent fires.",
+        "MODESS_DESCRIPTION": "Scientific initiation project on seismic modeling in isotropic media.",
+        "STARCTRON_DESCRIPTION": "Electron template app with React JS",
+        "ORAMA_DESCRIPTION": "This project was developed during the 5th edition of Mega Hack for the Órama challenge. It is an investment app with a more user-friendly look, which seeks to attract the attention of young investors.",
+        "EXCEL_DESCRIPTION": "This project is a simple Excel file reader using Apache POI and Java 11",
+        "SIDE_PROJECTS": "Side Projects"
+    },
+    "FOOTER": {
+        "SITE_MAP": "Site Map",
+        "FOLLOW_ON_SOCIAL_MEDIA": "Follow on social media",
+        "GET_IN_TOUCH": "Get in touch",
+        "RIGHTS": "All rights reserved"
+    },
+    "SHARED": {
+        "FIND_OUT": "Find out more",
+        "SEARCH": "Search",
+        "SHOW_MORE": "Show more",
+        "CHAT_NOW": "Chat now",
+        "SCHEDULE_CONVERSATION": "Schedule conversation",
+        "READ_MORE": "Read more"
+    }
+}
+  

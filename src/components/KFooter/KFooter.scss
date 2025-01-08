@@ -1,0 +1,37 @@
+.k-footer {
+    max-width: 1230px;
+    margin: auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    min-height: 360px;
+    padding: 4rem 0;
+
+    h1 {
+        font-weight: 700;
+        margin-bottom: 1rem;
+    }
+
+    & {
+
+        @media (max-width: 600px) {
+            grid-template-columns: 1fr !important;
+            min-height: inherit !important;
+            gap: 4rem;
+
+            > aside.contact {
+
+                .actions {
+                    flex-direction: column;
+
+                    button {
+                        width: 100%;
+                    }
+                }
+            }
+        }
+    }
+    
+}

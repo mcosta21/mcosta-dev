@@ -1,0 +1,29 @@
+#services-section {
+    padding: 8rem 0;
+
+    .services-container {
+        max-width: 600px;
+        margin: auto;
+
+        .projects {
+            display: flex;
+            flex-direction: column;
+            gap: 4rem;
+        }
+
+        .side-projects {
+            display: flex;
+            flex-direction: column;
+            gap: 2rem;
+        }
+
+        .card-hover {
+            transition: all 0.2s ease;
+        }
+
+        .card-hover:hover {
+            transform: scale(1.02);
+        }
+    }
+   
+}

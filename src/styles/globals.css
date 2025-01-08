@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: "Manrope", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    touch-action: auto;
+}
+
+
+.primary-gradient {
+    background: linear-gradient(90deg, #FA812F 0%, #FA4032 100%);
+}
+
+@media (max-width: 1230px) {
+    .d-padding {
+        padding-right: 2rem !important;
+        padding-left: 2rem !important;
+    }
+}

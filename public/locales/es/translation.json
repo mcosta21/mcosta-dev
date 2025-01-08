@@ -1,0 +1,94 @@
+{
+    "MAIN_SECTION": {
+      "TITLE_1": "Soluciones",
+      "TITLE_2": "inteligentes para tu",
+      "TITLE_3": "negocio en un",
+      "TITLE_4": "bucle infinito",
+      "SUBTITLE": "Transformamos tu idea y necesidad en una aplicación o sistema innovador, completamente personalizado para tu negocio.",
+      "FAST_FREE_ANALYSIS_QUOTE": "Análisis y presupuesto rápido y gratuito",
+      "FIND_OUT_MORE_NOW": "Descubre más ahora"
+    },
+    "SUCCESS_CASES": {
+      "TITLE": "Casos de éxito",
+      "CLIENTS": {
+        "GOOTRIP_TEXT": "Gootrip es una plataforma innovadora que organiza consejos de viaje a partir de contenido de YouTube e Instagram, vinculándolos directamente a ubicaciones en Google Maps. \n\nCreada para simplificar la planificación, ayuda a los viajeros a descubrir lugares increíbles y a crear itinerarios personalizados con facilidad. Los influencers también pueden conectar sus recomendaciones a mapas, haciendo todo más interactivo. \n\nOrganizar viajes nunca fue tan eficiente, transformando tus aventuras en experiencias únicas e inolvidables.",
+        "BROTHERS_TEXT": "Brothers Invest enfrentó dificultades para gestionar sus operaciones comerciales en hojas de cálculo de Excel, lo que limitaba la eficiencia y la escalabilidad. \n\nCon la solución desarrollada por Luup Software, toda la gestión se transformó en un sistema robusto y confiable, integrando procesos, automatizando tareas y ofreciendo seguridad en la toma de decisiones. \n\nEsta innovación trajo mayor eficiencia, precisión y profesionalismo a las operaciones de la empresa, permitiendo un crecimiento sostenible y una experiencia mejorada para sus clientes.",
+        "EZYAPP_TEXT": "EzyApp es una plataforma enfocada en el sector gastronómico, atendiendo restaurantes, cafeterías y pizzerías. \n\nOfrece gestión de pedidos, control de inventarios, informes financieros e integración con IFood. También cuenta con una página de destino para facilitar la presentación y adquisición. \n\nCon EzyApp, los negocios gastronómicos optimizan sus operaciones y mejoran la eficiencia del servicio."
+      }
+    },
+    "SERVICES": {
+      "TITLE": "Nuestros servicios",
+      "OPTIONS": {
+        "MOBILE_APP_TITLE": "Aplicación móvil",
+        "MOBILE_APP_DESCRIPTION": "Creamos aplicaciones para Android e iOS totalmente personalizadas y centradas en la experiencia del usuario.",
+        "WEBSITE_CREATION_TITLE": "Creación de sitios web",
+        "WEBSITE_CREATION_DESCRIPTION": "Desarrollamos sitios web modernos, responsivos y optimizados para SEO.",
+        "ECOMMERCE_TITLE": "Comercio electrónico",
+        "ECOMMERCE_DESCRIPTION": "Creamos tiendas virtuales completas con diseño exclusivo e integraciones de pago.",
+        "LANDING_PAGE_TITLE": "Páginas de destino",
+        "LANDING_PAGE_DESCRIPTION": "Desarrollamos páginas de alta conversión para captar clientes potenciales y potenciar tu negocio.",
+        "CUSTOM_ERP_TITLE": "ERP personalizado",
+        "CUSTOM_ERP_DESCRIPTION": "Desarrollamos sistemas de gestión empresarial a medida para satisfacer las necesidades de tu negocio.",
+        "AI_APP_TITLE": "Aplicaciones con inteligencia artificial",
+        "AI_APP_DESCRIPTION": "Integramos soluciones de IA en tus aplicaciones para automatización e información avanzada.",
+        "API_INTEGRATION_TITLE": "Integraciones y APIs",
+        "API_INTEGRATION_DESCRIPTION": "Desarrollamos e integramos APIs para conectar tus sistemas y aplicaciones de manera eficiente.",
+        "CUSTOM_DEV_TITLE": "Desarrollo personalizado",
+        "CUSTOM_DEV_DESCRIPTION": "Creamos sistemas a medida para satisfacer las demandas específicas de tu proyecto.",
+        "DASHBOARD_TITLE": "Paneles y dashboards",
+        "DASHBOARD_DESCRIPTION": "Desarrollamos dashboards interactivos para visualización y análisis de datos en tiempo real.",
+        "UI_DESIGN_TITLE": "Diseño de interfaces",
+        "UI_DESIGN_DESCRIPTION": "Creamos interfaces intuitivas y atractivas para aplicaciones y sistemas.",
+        "CHATBOT_TITLE": "Chatbots y asistentes virtuales",
+        "CHATBOT_DESCRIPTION": "Desarrollamos chatbots para atención al cliente, utilizando IA para respuestas inteligentes.",
+        "COURSE_MANAGER_TITLE": "Gestor de cursos",
+        "COURSE_MANAGER_DESCRIPTION": "Creamos plataformas de aprendizaje a distancia (EAD) con gestión de cursos, matrículas y certificaciones.",
+        "SYSTEM_MAINTENANCE_TITLE": "Mantenimiento de sistemas",
+        "SYSTEM_MAINTENANCE_DESCRIPTION": "Ofrecemos soporte y mantenimiento para sistemas existentes, asegurando eficiencia y actualizaciones continuas.",
+        "DATA_MANAGEMENT_TITLE": "Gestión de datos",
+        "DATA_MANAGEMENT_DESCRIPTION": "Ofrecemos soluciones para análisis, almacenamiento y procesamiento de grandes volúmenes de datos.",
+        "DIGITAL_SECURITY_TITLE": "Seguridad digital",
+        "DIGITAL_SECURITY_DESCRIPTION": "Implementamos soluciones de seguridad para proteger datos y sistemas contra amenazas cibernéticas.",
+        "CLOUD_MIGRATION_TITLE": "Migración a la nube",
+        "CLOUD_MIGRATION_DESCRIPTION": "Ayudamos en la migración de sistemas y datos a plataformas en la nube con seguridad y eficiencia.",
+        "PROCESS_AUTOMATION_TITLE": "Automatización de procesos",
+        "PROCESS_AUTOMATION_DESCRIPTION": "Desarrollamos herramientas para automatizar flujos de trabajo y aumentar la productividad."
+      }
+    },
+    "CLIENTS": {
+      "TITLE": "Clientes",
+      "OPTIONS": {
+        "GOOTRIP": "Plataforma innovadora para planificar viajes, explorar consejos de influencers, descubrir destinos y crear itinerarios personalizados.",
+        "BROTHERS": "Empresa enfocada en inversiones estratégicas, ayudando a los clientes a alcanzar sus objetivos financieros mediante consultorías personalizadas y soluciones innovadoras.",
+        "EZYAPP": "Sistema de gestión empresarial enfocado en gastronomía, ofreciendo soluciones completas para restaurantes, cafeterías y pizzerías, optimizando operaciones y mejorando la experiencia del cliente."
+      }
+    },
+    "ABOUT": {
+      "TITLE": "Sobre nosotros",
+      "FIRST_TEXT": "En Luup Software, creemos en el poder de la tecnología para transformar negocios e ideas en soluciones reales. Especializados en el desarrollo de sistemas y aplicaciones personalizadas, nuestra misión es crear productos que satisfagan las demandas únicas de cada cliente. Trabajamos con innovación continua, combinando experiencia técnica y creatividad para ofrecer resultados que marcan la diferencia.",
+      "SECOND_TEXT": "Nuestro compromiso va más allá de la entrega de proyectos: buscamos construir relaciones a largo plazo, ofreciendo soporte, eficiencia y excelencia en cada etapa del proceso. Cualquiera que sea tu necesidad, estamos listos para desarrollarla con calidad y dedicación.",
+      "DEVELOPER": "Desarrollador"
+    },
+    "FOOTER": {
+      "SITE_MAP": "Mapa del sitio",
+      "FOLLOW_ON_SOCIAL_MEDIA": "Síguenos en redes sociales",
+      "GET_IN_TOUCH": "Ponte en contacto",
+      "RIGHTS": "Todos los derechos reservados"
+    },
+    "PAGES": {
+      "HOME": "Inicio",
+      "SUCCESS_CASES": "Casos de éxito",
+      "SERVICES": "Servicios",
+      "CLIENTS": "Clientes",
+      "ABOUT": "Sobre nosotros",
+      "POLICY_PRIVACY": "Política de privacidad",
+      "SERVICE_TERMS": "Términos de servicio"
+    },
+    "SHARED": {
+      "FIND_OUT": "Descubre más",
+      "SEARCH": "Buscar",
+      "SHOW_MORE": "Ver más",
+      "CHAT_NOW": "Chatea ahora",
+      "SCHEDULE_CONVERSATION": "Agenda una conversación"
+    }
+}
