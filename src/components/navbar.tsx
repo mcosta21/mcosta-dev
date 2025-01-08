@@ -55,14 +55,6 @@ export const Navbar = () => {
       name: "English",
       locale: "en",
     },
-    {
-      name: "Español",
-      locale: "es",
-    },
-    {
-      name: "Français",
-      locale: "fr",
-    },
   ];
 
   function handleChangeLanguage(locale: string): void {
