@@ -18,7 +18,7 @@ export default function MainSection() {
     },
     {
       icon: <FaInstagram size={20} />,
-      link: "https://www.instagram.com/marcio_costa7",
+      link: "https://www.instagram.com/marciocostadev",
     },
   ];
 
